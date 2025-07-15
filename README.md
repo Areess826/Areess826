@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hello World! I'm Aress 👋
+
+![aress](img/banner1.jpg)
 
 <!--
 **Areess826/Areess826** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +16,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- ⛺I'am Still in School and Pursuing High School Education.
+- ⛺I'm a Full-Stack Developer
+- ⛺I'm a Tech Enthusiast and a Passionate Learner.
+- ⛺I'm currently learning HTML/CSS,JAVASCRIPT,PHP,MYSQL,FLUTTER.TAILWIND,C++.
+
+![aress](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZW9iYXQyODkxZWlwa200OGE1ZGVtdnZjbG90bDQzdW1qazFoZGFyaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4xKJUTzWPAVoY/giphy.gif)
