@@ -22,6 +22,10 @@ Here are some ideas to get you started:
 - ⛺I'm a Tech Enthusiast and a Passionate Learner.
 - ⛺I'm currently learning HTML/CSS,JAVASCRIPT,VUE,MYSQL,FLUTTER.TAILWIND,C++,REACT,FIGMA,PYTHON,ANGULAR,KOTLIN.
 
+#### Operating System
+[![My Operating System](https://skillicons.dev/icons?i=kali,arch)](https://skillicons.dev)
+
+
 #### Skills
 [![My Skills](https://skillicons.dev/icons?i=html,css,javascript,tailwind,react,flutter,kotlin,mysql,figma,cpp,python,vue,angular,&perline=3)](https://skillicons.dev)
 
