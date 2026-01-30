@@ -28,15 +28,18 @@ Here are some ideas to get you started:
 
 #### Socials
 
-![https://www.instagram.com/aress__666](https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
+![https://www.instagram.com/aress._77/](https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
 
 
 
-##### My Github Stats
-![Aress GitHub stats](https://github-readme-stats.vercel.app/api?username=Aress&show_icons=true&theme=holi)
 
 
-<p align="left">Coding with me</p>
+<p align="left">
+
+-Anonymous
+ “If you’re a good hacker, everyone knows you. But, if you’re a great hacker, no one knows you.”
+  
+</p>
 
 ---
 ###
@@ -49,7 +52,6 @@ Here are some ideas to get you started:
 
 ###
 
-<img src="https://raw.githubusercontent.com/Areess826/Areess826/output/snake.svg" alt="Snake animation" />
 
 ###
 
