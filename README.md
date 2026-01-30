@@ -17,12 +17,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - ⛺I'am Still in School and Pursuing High School Education.
-- ⛺I'm a Full-Stack Developer
+- ⛺I'm a Front-End Developer
+- ⛺I'm a Penestration Testing
 - ⛺I'm a Tech Enthusiast and a Passionate Learner.
-- ⛺I'm currently learning HTML/CSS,JAVASCRIPT,PHP,MYSQL,FLUTTER.TAILWIND,C++,LARAVEL,FIGMA,PYTHON,
+- ⛺I'm currently learning HTML/CSS,JAVASCRIPT,VUE,MYSQL,FLUTTER.TAILWIND,C++,REACT,FIGMA,PYTHON,ANGULAR,KOTLIN.
 
 #### Skills
-[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,tailwind,php,flutter,laravel,mysql,figma,c,python&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,tailwind,react,flutter,kotlin,mysql,figma,cpp,python,vue,angular,&perline=3)](https://skillicons.dev)
 
 
 #### Socials
@@ -35,7 +36,7 @@ Here are some ideas to get you started:
 ![Aress GitHub stats](https://github-readme-stats.vercel.app/api?username=Aress&show_icons=true&theme=holi)
 
 
-<p align="left">Play games with me</p>
+<p align="left">Coding with me</p>
 
 ---
 ###
